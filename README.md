@@ -9,6 +9,7 @@ Top Products: Displays the highest-selling products to inform inventory and mark
 Operating Profit & Margin: Measures profitability and operating efficiency.
 Customer Segmentation: Analyzes customer groups to drive targeted marketing efforts.
 Dynamic Filters: Allows users to interact with data based on region, product category, and time.
+
 🔍 Data Sources
 Data was collected from a range of sample datasets covering sales transactions, product information, and customer segmentation. The dataset includes details on units sold, revenue, operating costs, and profit margins.
 
@@ -16,6 +17,7 @@ Data was collected from a range of sample datasets covering sales transactions, 
 Power BI: For creating the interactive dashboard and visualizations.
 DAX: For custom calculations, including operating margins and profit analysis.
 SQL: For data extraction and preparation.
+
 📈 Key Insights
 Visualized the top-selling products and identified which regions had the highest sales.
 Analyzed the operating profit and margins across different regions and product categories.
